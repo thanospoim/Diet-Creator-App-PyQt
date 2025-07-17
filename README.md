@@ -1,8 +1,9 @@
-<img width="1536" height="1024" alt="ChatGPT Image 17 Ιουλ 2025, 02_49_28 μ μ" src="https://github.com/user-attachments/assets/77695473-88c4-4d39-9026-073b1525ba21" />
 # 🥗 Diet Creator App
 
 **Diet Creator App** is a user-friendly desktop application that generates **personalized weekly diet plans** using Google's Gemini AI. It supports **Greek**, **English**, and **German**, and tailors each plan based on the user's gender, age, lifestyle, and dietary preferences.
 
+---
+<img width="1536" height="1024" alt="ChatGPT Image 17 Ιουλ 2025, 02_49_28 μ μ" src="https://github.com/user-attachments/assets/77695473-88c4-4d39-9026-073b1525ba21" />
 ---
 
 ## ✨ Features
